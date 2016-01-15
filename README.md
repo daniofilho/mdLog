@@ -17,7 +17,7 @@ Work is still in progress.
       Note: I recommend using a variable to save the log message and do the log on the end of your code, but it`s up to you.
    */
 
-   $msg = "Begin og the log.";
+   $msg = "Begin of the log.";
 
    //The recommended way to store arrays on the Log.
    $array = array(
@@ -30,7 +30,7 @@ Work is still in progress.
 
    $msg .= "End of the log.";
 
-   //Save the Log 
+   //Save the Log
    $log->log($msg);
 
 ~~~
