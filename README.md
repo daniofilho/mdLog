@@ -36,5 +36,7 @@ Work is still in progress.
 ~~~
 
 **Developers:**
+
 [Dânio Filho](https://github.com/daniofilho)
+
 [Filipe Perina](https://github.com/FilipePerina)
